@@ -281,6 +281,9 @@ Research, search, and analysis specialists.
 - [**market-researcher**](categories/10-research-analysis/market-researcher.md) - Market analysis and consumer insights
 - [**data-researcher**](categories/10-research-analysis/data-researcher.md) - Data discovery and analysis expert
 - [**scientific-literature-researcher**](categories/10-research-analysis/scientific-literature-researcher.md) - Scientific paper search and evidence synthesis via [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)
+- [**fact-checker**](categories/10-research-analysis/fact-checker.md) - Claim verification and misinformation detection expert
+- [**patent-researcher**](categories/10-research-analysis/patent-researcher.md) - Intellectual property landscape and prior art specialist
+- [**academic-writer**](categories/10-research-analysis/academic-writer.md) - Scholarly writing and publication specialist
 
 ## 🤖 Understanding Subagents
 

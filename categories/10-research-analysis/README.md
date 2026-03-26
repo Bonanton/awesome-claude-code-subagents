@@ -13,6 +13,9 @@ Use these subagents when you need to:
 - **Gather and analyze data** for insights
 - **Synthesize complex information** into clear findings
 - **Make data-driven decisions** with confidence
+- **Verify claims and detect misinformation** before publication
+- **Search patent databases** and assess IP landscapes
+- **Write or polish academic content** for publication or submission
 
 ## Available Subagents
 
@@ -51,6 +54,21 @@ Scientific literature specialist using [BGPT MCP](https://github.com/connerlambd
 
 **Use when:** Searching scientific literature, conducting systematic reviews, synthesizing experimental evidence, fact-checking claims against published data, or building evidence-grounded research reports.
 
+### [**fact-checker**](fact-checker.md) - Claim verification and misinformation detection expert
+Rigorous verification specialist cross-referencing claims against authoritative primary sources. Masters evidence chain construction, statistical auditing, bias detection, and verdict calibration. Issues structured verdicts with confidence levels and traceable corrections.
+
+**Use when:** Verifying factual claims before publication, auditing statistics against source data, detecting misinformation, validating attributed quotes, or reviewing content accuracy with traceable evidence.
+
+### [**patent-researcher**](patent-researcher.md) - Intellectual property landscape and prior art specialist
+IP intelligence expert searching global patent databases and analyzing intellectual property landscapes. Masters IPC/CPC classification, freedom-to-operate assessment, prior art discovery, and competitive IP profiling. Reveals innovation white spaces and blocking patent risks.
+
+**Use when:** Conducting prior art searches, assessing freedom-to-operate risks, mapping competitor patent portfolios, identifying IP white spaces, or supporting IP due diligence and innovation strategy.
+
+### [**academic-writer**](academic-writer.md) - Scholarly writing and publication specialist
+Academic communication expert covering the full manuscript lifecycle from outline to submission-ready draft. Masters IMRaD structure, citation style formatting, argument architecture, grant proposal writing, and peer-review response. Delivers publication-quality scholarly prose.
+
+**Use when:** Writing or revising research papers, structuring literature reviews, drafting grant proposals, formatting citations, responding to peer reviewers, or polishing theses and dissertations for submission.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |
@@ -62,6 +80,9 @@ Scientific literature specialist using [BGPT MCP](https://github.com/connerlambd
 | Understand markets | **market-researcher** |
 | Analyze data patterns | **data-researcher** |
 | Search scientific papers | **scientific-literature-researcher** |
+| Verify claims and detect misinformation | **fact-checker** |
+| Search patents and assess IP landscape | **patent-researcher** |
+| Write or polish academic manuscripts | **academic-writer** |
 
 ## Common Research Patterns
 
@@ -88,6 +109,18 @@ Scientific literature specialist using [BGPT MCP](https://github.com/connerlambd
 - **market-researcher** for market context
 - **search-specialist** for information discovery
 - **trend-analyst** for industry evolution
+
+**Academic and Scientific Research:**
+- **academic-writer** for manuscript structure and prose
+- **scientific-literature-researcher** for evidence synthesis
+- **fact-checker** for claim verification and citation accuracy
+- **research-analyst** for comprehensive synthesis
+
+**IP and Innovation Research:**
+- **patent-researcher** for prior art and FTO assessment
+- **competitive-analyst** for competitor IP strategy
+- **trend-analyst** for emerging technology signals
+- **fact-checker** for validating IP claims and statistics
 
 ## Getting Started
 
