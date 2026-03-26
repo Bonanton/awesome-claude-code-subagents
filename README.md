@@ -240,6 +240,7 @@ Domain-specific technology experts.
 Product management and business analysis.
 
 - [**business-analyst**](categories/08-business-product/business-analyst.md) - Requirements specialist
+- [**business-strategist-pmi**](categories/08-business-product/business-strategist-pmi.md) - Italian SME business strategy specialist
 - [**content-marketer**](categories/08-business-product/content-marketer.md) - Content marketing specialist
 - [**customer-success-manager**](categories/08-business-product/customer-success-manager.md) - Customer success expert
 - [**legal-advisor**](categories/08-business-product/legal-advisor.md) - Legal and compliance specialist

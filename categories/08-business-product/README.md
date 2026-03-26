@@ -21,6 +21,11 @@ Business analysis expert translating business needs into technical requirements.
 
 **Use when:** Gathering requirements, analyzing business processes, defining specifications, creating user stories, or bridging business-technical communication.
 
+### [**business-strategist-pmi**](business-strategist-pmi.md) - Italian SME business strategy specialist
+Strategic consultant specialized in Italian small and medium enterprises (PMI). Validates business model feasibility, builds simplified Business Model Canvases, maps automation levers, identifies comparable Italian/European case studies, and produces executable briefs for downstream agents. Uses authoritative Italian institutional data sources (ISTAT, Unioncamere, Politecnico di Milano Observatories).
+
+**Use when:** Selecting or validating a business model for Italian SMEs, building a canvas with automation opportunities, defining a minimum viable commercial offer, researching Italian market benchmarks, or structuring strategic briefs to hand off to content/automation/sales agents.
+
 ### [**content-marketer**](content-marketer.md) - Content marketing specialist
 Content expert creating compelling technical and marketing content. Masters SEO, content strategy, and audience engagement. Drives growth through strategic content creation.
 
@@ -71,6 +76,7 @@ User research specialist uncovering user needs and behaviors. Expert in research
 | If you need to... | Use this subagent |
 |-------------------|-------------------|
 | Define requirements | **business-analyst** |
+| Validate Italian SME business model | **business-strategist-pmi** |
 | Create content | **content-marketer** |
 | Retain customers | **customer-success-manager** |
 | Handle legal matters | **legal-advisor** |
